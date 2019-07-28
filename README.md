@@ -1,3 +1,5 @@
+## This repository contains the source code to all the algorithm and projects used in this curriculum implemented in python
+
 # Learn_Computer_Vision
 This is the curriculum for "Learn Computer Vision" by Siraj Raval on Youtube
 
